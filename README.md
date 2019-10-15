@@ -24,9 +24,3 @@ hola
 ***************
 ```
 
-### Rules
-
--   This is an individual assignment.
--   Deadline: 30 minutes.
--   Use **Git properly**
-
